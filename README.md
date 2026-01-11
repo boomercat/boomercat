@@ -4,7 +4,8 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomercat&theme=tokyonight)](https://github.com/boomercat/)
+
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomercat&theme=2077)](https://github.com/boomercat/)
 
 ## 📊 GitHub Stats
 
