@@ -5,15 +5,11 @@
 ## 📊 GitHub Stats
 
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomercat&theme=2077)](https://github.com/boomercat/)
+![](https://raw.githubusercontent.com/boomercat/boomercat/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/boomercat/boomercat/main/profile-summary-card-output/2077/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/boomercat/boomercat/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/boomercat/boomercat/main/profile-summary-card-output/2077/4-productive-time.svg)
 
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomercat&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boomercat&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomercat&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomercat&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomercat&theme=tokyonight)
 
 
 <!--
