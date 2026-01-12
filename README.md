@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Large Language Model
+- 🌱 I’m Poki Bai
+- 🔭 I’m currently learning Large Language Model
 
 ## 📊 GitHub Stats
 
